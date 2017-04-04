@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GuitarTunerV0.2.2</string>
+    <string-array name="instruments">
+        <item>Guitar</item>
+        <item>Ukelele</item>
+    </string-array>
+</resources>
