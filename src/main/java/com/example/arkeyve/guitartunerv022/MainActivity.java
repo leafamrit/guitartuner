@@ -20,10 +20,8 @@ public class MainActivity extends AppCompatActivity {
     private TextView standardTune;
     private SeekBar noteProbability;
     private Tuner tuner;
-    private Handler pauseHandle = new Handler();
     private String noteText;
     private int noteAccuracy;
-    public static final int AUDIO_PERMISSION_REQUEST_CODE = 4;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
